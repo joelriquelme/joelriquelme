@@ -1,14 +1,10 @@
 # ¡Hola, soy Joel!
 
----
-
 ## Sobre mí
 
 * Egreesado de Ingeniería Civil en Computación de la **Universidad de Chile**.
 * Apasionado por el desarrollo de software y la experiencia de usuario.
 * Me encanta construir herramientas útiles, participar en proyectos por y para la gente y aprender constantemente.
-
----
 
 ## Tecnologías y Herramientas
 
@@ -28,23 +24,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
-
----
-
-## Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelriquelme&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joelriquelme&theme=radical&hide_border=true" alt="Racha de GitHub" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelriquelme&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</div>
-
----
 
 ## ¿Hablamos?
 
